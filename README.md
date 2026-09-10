@@ -26,6 +26,7 @@ Visualización de resultados mediante gráficos.
 Interpretación de hallazgos y conclusiones del caso.
 
 **📊 Resultados y conclusiones**
+
 El notebook presenta:
 
 Los principales hallazgos derivados del análisis exploratorio.
