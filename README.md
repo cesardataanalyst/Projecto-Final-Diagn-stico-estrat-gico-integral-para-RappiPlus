@@ -1,5 +1,7 @@
 # Projecto-Final-Diagnostico-estrategico-integral-para-RappiPlus
+
 **Projecto Final Aprobado**
+
 **📘 Proyecto Final – Análisis Exploratorio y Desarrollo del Caso**
 Este repositorio contiene el notebook correspondiente al Proyecto Final, desarrollado durante el Bootcamp. El trabajo incluye el análisis exploratorio, la limpieza de datos, la construcción de visualizaciones y la interpretación de los resultados obtenidos a partir del dataset asignado. Con análisis claro dento de **POWER BI**
 
