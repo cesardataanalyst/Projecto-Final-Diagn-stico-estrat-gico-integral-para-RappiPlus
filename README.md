@@ -301,6 +301,10 @@ Projecto-Final-Diagn-stico-estrat-gico-integral-para-RappiPlus/
 5.	Revisar los resultados de Python y SQL.
 6.	Consultar las visualizaciones y el dashboard de Power BI para complementar la interpretación.
 
+## 📓 Notebook
+
+👉 [Ver Notebook completo]  https://github.com/cesardataanalyst/Projecto-Final-Diagn-stico-estrat-gico-integral-para-RappiPlus 
+
 ## 📌 Key Takeaway
 Este proyecto integra Python, SQL, análisis estadístico y Power BI para desarrollar un diagnóstico integral de un negocio digital.
 El trabajo conecta diferentes dimensiones del negocio —rentabilidad, ventas, marketing, conversión, retención y experimentación— y transforma los resultados en indicadores y recomendaciones orientadas a la toma de decisiones.
